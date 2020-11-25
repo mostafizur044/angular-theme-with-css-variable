@@ -1,0 +1,209 @@
+
+$theme-map-light-primary: (
+    --theme-primary-50 : #E1EDF6,
+    --theme-primary-100 : #B3D1E8,
+    --theme-primary-200 : #80B3D9,
+    --theme-primary-300 : #5695C3,
+    --theme-primary-400 : #8ACDFF,
+    --theme-primary-500 : #49ADF8,
+    --theme-primary-600 : #015EAB,
+    --theme-primary-700 : #0153A2,
+    --theme-primary-800 : #014999,
+    --theme-primary-900 : #00388A,
+    --theme-primary-A100 : #F0F6FC,
+    --theme-primary-A200 : #C4DEFF,
+    --theme-primary-A400 : #98C5FF,
+    --theme-primary-A700 : #6DAEFF
+);
+
+$theme-map-light-primary-contrast: (
+   --theme-primary-contrast-50 : #014999,
+   --theme-primary-contrast-100 : #014999,
+   --theme-primary-contrast-200 : #014999,
+   --theme-primary-contrast-300 : #F7FBFF,
+   --theme-primary-contrast-400 : #F7FBFF,
+   --theme-primary-contrast-500 : #00388A,
+   --theme-primary-contrast-600 : #015EAB,
+   --theme-primary-contrast-700 : #00388A,
+   --theme-primary-contrast-800 : #00388A,
+   --theme-primary-contrast-900 : #00388A,
+   --theme-primary-contrast-A100 : #E1EDF6,
+   --theme-primary-contrast-A200 : #E1EDF6,
+   --theme-primary-contrast-A400 : #00388A,
+   --theme-primary-contrast-A700 : #00388A
+);
+
+$theme-map-light-accent: (
+    --theme-accent-50 : #E7EDF1,
+    --theme-accent-100 : #D8E1E8,
+    --theme-accent-200 : #B6BDC2,
+    --theme-accent-300 : #909599,
+    --theme-accent-400 : #696D70,
+    --theme-accent-500 : #4D5052,
+    --theme-accent-600 : #303233,
+    --theme-accent-700 : #252627,
+    --theme-accent-800 : #1E1F20,
+    --theme-accent-900 : #131314,
+    --theme-accent-A100 : #EF6E6E,
+    --theme-accent-A200 : #EA4040,
+    --theme-accent-A400 : #F60000,
+    --theme-accent-A700 : #DD0000
+);
+
+
+$theme-map-light-accent-contrast: (
+    --theme-accent-contrast-50 : #000000,
+    --theme-accent-contrast-100 : #000000,
+    --theme-accent-contrast-200 : #000000,
+    --theme-accent-contrast-300 : #000000,
+    --theme-accent-contrast-400 : #FFFFFF,
+    --theme-accent-contrast-500 : #FFFFFF,
+    --theme-accent-contrast-600 : #FFFFFF,
+    --theme-accent-contrast-700 : #FFFFFF,
+    --theme-accent-contrast-800 : #FFFFFF,
+    --theme-accent-contrast-900 : #FFFFFF,
+    --theme-accent-contrast-A100 : #000000,
+    --theme-accent-contrast-A200 : #000000,
+    --theme-accent-contrast-A400 : #FFFFFF,
+    --theme-accent-contrast-A700 : #FFFFFF
+);
+
+$theme-map-light-warn: (
+    --theme-warn-50 : #f6e0e4,
+    --theme-warn-100 : #e7b3bc,
+    --theme-warn-200 : #d88090,
+    --theme-warn-300 : #c84d63,
+    --theme-warn-400 : #bc2641,
+    --theme-warn-500 : #b00020,
+    --theme-warn-600 : #a9001c,
+    --theme-warn-700 : #a00018,
+    --theme-warn-800 : #970013,
+    --theme-warn-900 : #87000b,
+    --theme-warn-A100 : #EF6E6E,
+    --theme-warn-A200 : #EA4040,
+    --theme-warn-A400 : #F60000,
+    --theme-warn-A700 : #DD0000
+);
+
+
+$theme-map-light-warn-contrast: (
+    --theme-warn-contrast-50 : #000000,
+    --theme-warn-contrast-100 : #000000,
+    --theme-warn-contrast-200 : #000000,
+    --theme-warn-contrast-300 : #FFFFFF,
+    --theme-warn-contrast-400 : #FFFFFF,
+    --theme-warn-contrast-500 : #FFFFFF,
+    --theme-warn-contrast-600 : #FFFFFF,
+    --theme-warn-contrast-700 : #FFFFFF,
+    --theme-warn-contrast-800 : #FFFFFF,
+    --theme-warn-contrast-900 : #FFFFFF,
+    --theme-warn-contrast-A100 : #000000,
+    --theme-warn-contrast-A200 : #000000,
+    --theme-warn-contrast-A400 : #000000,
+    --theme-warn-contrast-A700 : #FFFFFF
+);
+
+/*** Dark **********/
+
+$theme-map-dark-primary: (
+    --theme-primary-50 : #FFEBEE,
+    --theme-primary-100 : #FFCDD2,
+    --theme-primary-200 : #EF9A9A,
+    --theme-primary-300 : #E57373,
+    --theme-primary-400 : #EF5350,
+    --theme-primary-500 : #F44336,
+    --theme-primary-600 : #E53935,
+    --theme-primary-700 : #D32F2F,
+    --theme-primary-800 : #C62828,
+    --theme-primary-900 : #B71C1C,
+    --theme-primary-A100 : #FF8A80,
+    --theme-primary-A200 : #FF5252,
+    --theme-primary-A400 : #FF1744,
+    --theme-primary-A700 : #D50000
+);
+
+$theme-map-dark-primary-contrast: (
+    --theme-primary-contrast-50 : #000000,
+    --theme-primary-contrast-100 : #000000,
+    --theme-primary-contrast-200 : #000000,
+    --theme-primary-contrast-300 : #FFFFFF,
+    --theme-primary-contrast-400 : #FFFFFF,
+    --theme-primary-contrast-500 : #FFFFFF,
+    --theme-primary-contrast-600 : #FFFFFF,
+    --theme-primary-contrast-700 : #FFFFFF,
+    --theme-primary-contrast-800 : #FFFFFF,
+    --theme-primary-contrast-900 : #FFFFFF,
+    --theme-primary-contrast-A100 : #000000,
+    --theme-primary-contrast-A200 : #000000,
+    --theme-primary-contrast-A400 : #000000,
+    --theme-primary-contrast-A700 : #000000
+);
+
+$theme-map-dark-accent: (
+    --theme-accent-50 : #fceaf3,
+    --theme-accent-100 : #f9cae1,
+    --theme-accent-200 : #f5a7cd,
+    --theme-accent-300 : #f084b9,
+    --theme-accent-400 : #ed69aa,
+    --theme-accent-500 : #ea4f9b,
+    --theme-accent-600 : #e74893,
+    --theme-accent-700 : #e43f89,
+    --theme-accent-800 : #e1367f,
+    --theme-accent-900 : #db266d,
+    --theme-accent-A100 : #ffffff,
+    --theme-accent-A200 : #ffe4ee,
+    --theme-accent-A400 : #ffb1ce,
+    --theme-accent-A700 : #ff97bd
+);
+
+$theme-map-dark-accent-contrast: (
+    --theme-accent-contrast-50 : #000000,
+    --theme-accent-contrast-100 : #000000,
+    --theme-accent-contrast-200 : #000000,
+    --theme-accent-contrast-300 : #000000,
+    --theme-accent-contrast-400 : #000000,
+    --theme-accent-contrast-500 : #000000,
+    --theme-accent-contrast-600 : #000000,
+    --theme-accent-contrast-700 : #FFFFFF,
+    --theme-accent-contrast-800 : #FFFFFF,
+    --theme-accent-contrast-900 : #FFFFFF,
+    --theme-accent-contrast-A100 : #000000,
+    --theme-accent-contrast-A200 : #000000,
+    --theme-accent-contrast-A400 : #000000,
+    --theme-accent-contrast-A700 : #000000
+);
+
+$theme-map-dark-warn: (
+    --theme-warn-50 : #e4e3ea,
+    --theme-warn-100 : #bcb8ca,
+    --theme-warn-200 : #9089a6,
+    --theme-warn-300 : #635982,
+    --theme-warn-400 : #413668,
+    --theme-warn-500 : #20124d,
+    --theme-warn-600 : #1c1046,
+    --theme-warn-700 : #180d3d,
+    --theme-warn-800 : #130a34,
+    --theme-warn-900 : #0b0525,
+    --theme-warn-A100 : #7561ff,
+    --theme-warn-A200 : #492eff,
+    --theme-warn-A400 : #2000fa,
+    --theme-warn-A700 : #1d00e1
+);
+
+$theme-map-dark-warn-contrast: (
+    --theme-warn-contrast-50 : #000000,
+    --theme-warn-contrast-100 : #000000,
+    --theme-warn-contrast-200 : #000000,
+    --theme-warn-contrast-300 : #FFFFFF,
+    --theme-warn-contrast-400 : #FFFFFF,
+    --theme-warn-contrast-500 : #FFFFFF,
+    --theme-warn-contrast-600 : #FFFFFF,
+    --theme-warn-contrast-700 : #FFFFFF,
+    --theme-warn-contrast-800 : #FFFFFF,
+    --theme-warn-contrast-900 : #FFFFFF,
+    --theme-warn-contrast-A100 : #FFFFFF,
+    --theme-warn-contrast-A200 : #FFFFFF,
+    --theme-warn-contrast-A400 : #FFFFFF,
+    --theme-warn-contrast-A700 : #FFFFFF
+);
+

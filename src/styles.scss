@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import "./style/theme.scss";
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+section {
+    padding: 30px;
+    background-color: var(--theme-primary-50);
+    color: var(--theme-primary-500);
+  }
+
+  div.chnage-theme {
+    padding: 30px;
+    background-color: var(--theme-primary-A100);
+    color: var(--theme-primary-500);
+  }
