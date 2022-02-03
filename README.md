@@ -1,4 +1,4 @@
-# Dynamic theming system by angular
+# Dynamically chnage theme in angular
 Theming is done by css varibale. It will also refect in angular material component. It just need to update variables in `~style/variable.scss` file.
 
 ## Development server
